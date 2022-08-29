@@ -1,0 +1,2 @@
+# Inside the Vagrant directory
+
